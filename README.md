@@ -10,3 +10,5 @@ This is the repository for people who wants to turn 6dof to freed protocal.
 # unreal plugin
 - [FreeDLiveLink](https://github.com/max-verem/FreeDLiveLink/tree/master/Source/FreeDLiveLink)
 
+# blender free-d
+- [Blender Free-D](https://blog.csdn.net/jxyyl/article/details/121263716?ops_request_misc=&request_id=&biz_id=102&utm_term=blender%20freed&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-121263716.142^v32^pc_search_v2,185^v2^control&spm=1018.2226.3001.4187)
