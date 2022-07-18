@@ -60,6 +60,7 @@ def to_freed_pack(id, loc, rot):
     buf[26] = 0
     buf[27] = 0
     
+    # checksum
     cs = 0x40
     
     for i in range(0, 28):
